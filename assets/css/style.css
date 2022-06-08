@@ -1,0 +1,15 @@
+*{
+    font-family: 'Roboto', sans-serif;
+}
+.navbar img{
+    width: 6rem;
+}
+.card-footer span{
+    padding-left: 0.5rem;
+}
+i{
+    padding-right: 0.3rem;
+}
+footer img{
+    width: 6rem;
+}
